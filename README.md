@@ -8,8 +8,7 @@ Islamic University of Science & Technology, Kashmir
 
 ## 🎯 Description
 
-DCSmartMotor is an easy-to-use Arduino library for controlling **DC motors with encoders** using **PID control** and angle-based movement. Inspired by Servo.h, but for DC motors!
-
+DCSmartMotor is an easy-to-use Arduino library for controlling **DC motors with encoders** using **PID control** and angle-based movement.
 ---
 
 ## 🔧 Features
